@@ -35,7 +35,7 @@ Cool! Pet fed
 Pet - Name: Vesta, Type: dog, Age: 9, Fed: Yes
 
 ## 💻 Installation
-1 - Clone the repo: ```git clone https://github.com/YourUsername/PetManager.git```
+1 - Clone the repo: ```git clone https://github.com/AwaIIenceCode/ImprovementsIncapsulationKnowledge.git```
 
 2 - Open in your IDE (Visual Studio, Rider, etc.).
 
