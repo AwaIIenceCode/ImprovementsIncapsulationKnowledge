@@ -17,16 +17,15 @@ Feed Action: Updates fed status with a confirmation message.
 Encapsulation: Private fields keep data safe and tidy.
 
 ## 🛠️ How It Works
-
-Create Pet objects with different constructor options.
-Call Print to see pet details.
-Use Feed to mark a pet as fed and check the update.
-Console shows pet info before and after feeding.
+- Create Pet objects with different constructor options.
+- Call Print to see pet details.
+- Use Feed to mark a pet as fed and check the update.
+- Console shows pet info before and after feeding.
 
 ## 📋 Example Usage
-Pet - Name: Rio, Type: Unknown, Age: 1, Fed: No
-Pet - Name: Lapochka, Type: Unknown, Age: 9, Fed: No
-Pet - Name: Vesta, Type: dog, Age: 9, Fed: No
+- Pet - Name: Rio, Type: Unknown, Age: 1, Fed: No
+- Pet - Name: Lapochka, Type: Unknown, Age: 9, Fed: No
+- Pet - Name: Vesta, Type: dog, Age: 9, Fed: No
 
 I feed pet...
 Cool! Pet fed
