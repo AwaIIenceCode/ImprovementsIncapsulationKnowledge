@@ -23,15 +23,18 @@ Pet Manager lets you:
 
 ## 📋 Example Usage
 Pet - Name: Rio, Type: Unknown, Age: 1, Fed: No
+
 Pet - Name: Lapochka, Type: Unknown, Age: 9, Fed: No
+
 Pet - Name: Vesta, Type: dog, Age: 9, Fed: No
 
 I feed pet...
+
 Cool! Pet fed
+
 Pet - Name: Vesta, Type: dog, Age: 9, Fed: Yes
 
 ## 💻 Installation
-
 1 - Clone the repo:
 ```git clone https://github.com/YourUsername/PetManager.git```
 2 - Open in your IDE (Visual Studio, Rider, etc.).
